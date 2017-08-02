@@ -1,5 +1,5 @@
-# MATLAB Data Processing session for QMUL GradFest2015
-This material was created for the Queen Mary University of London GradFest 2015, MATLAB Data Processing session.
+# MATLAB Data Analysis session for QMUL GradFest2015
+This material was created for the Queen Mary University of London GradFest 2015, MATLAB Data Analysis session.
 
 For enquires regarding its content, contact Michail Palaiokostas at m.palaiokostas (at) gmail.com .
 
@@ -12,4 +12,6 @@ United Kingdom
 June, 2015
 
 ## Instructions
-Create the scripts for the exercises in the same folder as this file.  
+
+* Create the scripts for the exercises in the same folder as this file.  
+* Read the tutorial for the theory and exercises.
